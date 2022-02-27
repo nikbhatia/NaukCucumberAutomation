@@ -1,0 +1,9 @@
+IP:
+   test2ConnectionIp: 192.168.40.128:3323
+
+DBName : 
+   SourcingManager: SourcingManager
+   
+Credentials:
+   username: smcluster
+   password: smKm7Iv80l

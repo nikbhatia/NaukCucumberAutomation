@@ -1,0 +1,48 @@
+#parse("/array.java.vm")
+#if ($packageName)
+package $packageName;
+
+#end##
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeSuite;
+import com.naukri.automation.util.XrayUtility;
+import cucumber.api.CucumberOptions;
+import cucumber.api.Scenario;
+import cucumber.api.testng.AbstractTestNGCucumberTests;
+import org.testng.annotations.DataProvider;
+
+
+@CucumberOptions(
+        strict = $strict,
+        features = {"$featureFile"},
+        plugin = #stringArray($plugins),
+        monochrome = $monochrome,
+#if(!$featureFile.contains(".feature:") && $tags)
+        tags = #stringArray($tags),
+#end
+        glue = #stringArray($glue))
+public class $className extends AbstractTestNGCucumberTests{
+
+
+    @DataProvider(parallel = true)
+    @Override
+    public Object[][] scenarios() {
+        return super.scenarios();
+    }
+	
+	private static XrayUtility xrayUtil;	
+
+    @BeforeSuite
+    public void start() {
+		System.out.println("In before suit");
+        xrayUtil = new XrayUtility();
+        xrayUtil.configureTests();		
+    }
+	
+    
+
+    @AfterSuite
+    public void tearDown() {
+        xrayUtil.publishResultsOnXray();
+    }
+}

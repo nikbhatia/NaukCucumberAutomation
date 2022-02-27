@@ -1,0 +1,370 @@
+URLs:
+   baseURL: https://rms.naukri.com
+   recBaseURL: https://recruit.naukri.com
+   adminDashboard: https://rms.naukri.com/admin/dashboard
+   billingDashboard: https://rms.naukri.com/billing/dashboard
+   applicationInbox: https://rms.naukri.com/profile/application/inbox
+   requirementInbox: https://rms.naukri.com/project/list
+   templateListingPage: https://rms.naukri.com/mailTemplate/list
+   settingsPage: https://rms.naukri.com/admin/settings
+   backupInboxPage: https://rms.naukri.com/profile/inbox/BackedUp
+   excelUploadPage: https://rms.naukri.com/uploadCandidate/excelUploadAdd
+   multipleFilesUploadPage: https://rms.naukri.com/uploadCandidate/multiUploaderForm
+   advancedSearchURL: https://rms.naukri.com/profile/search
+   bulkUploadPage: https://rms.naukri.com/uploadCandidate/bulkUpload
+   mailTemplateListingPage: https://rms.naukri.com/mailTemplate/list
+   profileListingInbox: https://rms.naukri.com/profile/inbox
+   logoutUrl: https://login.recruit.naukri.com/Login/smLogout
+   addSingleProfile: https://rms.naukri.com/application/addCandidate
+   cvDetailsPage: https://rms.naukri.com/application/viewApplication
+   groupListing: https://rms.naukri.com/employer/list
+   candidateDetailsPage: https://rms.naukri.com/application/viewCandidate/
+   RMSDashboard: https://rms.naukri.com/admin/dashboard
+   RMSSettings: https://rms.naukri.com/admin/settings
+   RMSProjectList: https://rms.naukri.com/project/list
+   RMSVendorPortal: https://rms.naukri.com/vendorportal/5099656
+   RMSLogout: https://rms.naukri.com/logout
+   VendorPortal: https://rms.naukri.com/vendorportal/5099656
+   RecLogin: https://login.recruit.naukri.com
+   RMSHMRequisitionList: https://rms.naukri.com/requisition/showList
+   RMSRequisitionList: https://rms.naukri.com/requisition/list
+   RMSRaiseRequisition: https://rms.naukri.com/request/create
+   addANewRequirement: https://rms.naukri.com/project/create   
+   RMS_URL: https://rms.naukri.com/
+   RMS_Dashboard: https://rms.naukri.com/admin/dashboard
+   RMS_ProjectListing: https://rms.naukri.com/project/list
+   appURL: https://rms.naukri.com
+   authURL: https://login.recruit.naukri.com
+   RMS_Settings: https://rms.naukri.com/admin/settings
+   SelectionProcessSettings: https://rms.naukri.com/status/manageApplicationStatus
+   accountSettings: https://rms.naukri.com/admin/settings
+   customizeSelectionProcess: https://rms.naukri.com/status/manageApplicationStatus
+   RequirementListingPage : https://rms.naukri.com/project/list
+   accountSettings : https://rms.naukri.com/admin/settings
+   Posting: https://posting.naukri.com
+   Settings: https://referral.naukri.com/app/settings
+   RecLogin: https://login.recruit.naukri.com
+   ReferralSite: https://testcompany.referralrecruit.com
+   Dashboard: https://posting.naukri.com/dashboard/home
+   EmployeeSite: https://testreferral.referralrecruit.com
+   EmployeeJobs: //TestReferral.referralrecruit.com/referral/employeeJobs
+   approvalTemplateListing: https://rms.naukri.com/approvalTemplate/showList
+   requisitionListing: https://rms.naukri.com/requisition/showList
+   SalaryBreakupListing: https://rms.naukri.com/offerGeneration/salary-breakup/list
+   ProfileProjectInbox: https://rms.naukri.com/profile/project/inbox
+   offerLogs: https://rms.naukri.com/offers/logs
+   ManageRecruiters: https://rms.naukri.com/recruiter/manage?_REF=S
+   ReportsPage: https://rms.naukri.com/reports/scheduleList
+   offerDoclisting: https://rms.naukri.com/offerGeneration/offer-document-template/list
+   clientTracker: https://rms.naukri.com/downloadTracker/list
+   ManageVendorPage: https://rms.naukri.com/vendor/list
+   MultiuploadPageUrl: https://rms.naukri.com/uploadCandidate/multiUploaderForm
+   AddNewVendorPage: https://rms.naukri.com/vendor/add
+   PasswordChangePage: https://naukrirecruiter.naukri.com/accounts/index/
+   RequisitionOverview: https://rms.naukri.com/project/dashboard
+
+ReportURLs:
+   Dashboard: https://rms.naukri.com/rms-reports/dashboard
+   SaveSchedule: https://rms.naukri.com/rms-reports/list
+   RequirementTAT: https://rms.naukri.com/rms-reports/tat
+   StageLevelTAT: https://rms.naukri.com/rms-reports/custom-tat
+   RequisitionTAT: https://rms.naukri.com/rms-reports/requisitionTat
+   RequisitionOverview: https://rms.naukri.com/rms-reports/requisitionOverview
+   RequirementFunnel: https://rms.naukri.com/rms-reports/conversion
+   StageLevelFunnel: https://rms.naukri.com/rms-reports/custom-conversion
+   RequirementAging: https://rms.naukri.com/rms-reports/requirementAging
+   RequirementCreation: https://rms.naukri.com/rms-reports/requirementCreation
+   SourcePerformance: https://rms.naukri.com/rms-reports/sourcePerformance
+   VendorPerformance: https://rms.naukri.com/rms-reports/vendorPerformance
+   HiringManagerActivity: https://rms.naukri.com/rms-reports/hmReport
+   CandidateActivity : https://rms.naukri.com/rms-reports/candidateActivity
+   RecruitmentActivity : https://rms.naukri.com/rms-reports/recruitmentActivity
+   
+Users:
+   Referral:
+            Username: rishabh.rastogi@naukri.com
+            Password: P@ssw0rd@123
+   Employee:
+            Username: vikash.agrawal@naukri.com
+            Password: P@ssw0rd@123 
+   Eapps:
+      Superuser:
+         username: yashika.gupta
+         password: 0p3r@t!0N#123   
+   Eapps2:
+      Superuser:
+         username: rishabh.rastogi@naukri.com
+         password: P@ssw0rd@123
+   HM1:
+      Superuser1:
+         username: hiring123@yopmail.com
+         password: P@ssw0rd0987
+   approver1:
+      Superuser1:
+         username: recruter@yopmail.com
+         password: P@ssw0rd0987
+   Enterprise:
+      Superuser:
+         username: lokesh.agrawal@naukri.com
+         password: P@ssw0rd0987
+         ReqsubStatusId: '1064_2609'
+      Superuser1:
+         username: varun.singh@naukri.com
+         password: P@ssw0rd1
+      Subuser:
+         username: enterprise_subuser1@naukri.com
+         username_offer: testoffersetting_subuser@yopmail.com
+         password_offer: P@ssw0rd
+      Subuser2:
+         username: offer_subuser1@yopmail.com
+         password: P@ssw0rd0987
+   Enterprise2:
+      Superuser:
+         username: singh.avinash@naukri.com
+         password: P@ssw0rd0987
+         ReqsubStatusId: '3070_5416'
+      Subuser:
+         username: enterprise2_subuser1@yopmail.com
+         password: P@ssw0rd0987
+      HiringManager:
+         username: avinashHM@yopmail.com
+         password: P@ssw0rd0987 
+      Vendor:
+         username: prashant.emlh@yopmail.com
+         password:  P@ssw0rd0987
+
+   Enterprise3:
+      Superuser:
+         username: gupta.mansi@naukri.com
+         password: N0wy0us33m3#
+      Subuser:
+         username: mansi.mlh@yopmail.com
+         password: P@ssw0rd
+
+      Report:
+            username: anima.taraiya@naukri.com
+            password:  P@ssw0rd0987
+            
+   Enterprise5:
+      Superuser:
+         username: anima.taraiya@naukri.com
+         password: P@ssw0rd0987
+      Subuser:
+         username: animasubuser1@yopmail.com
+         password: P@ssw0rd0987
+   ProConsultant:
+      Superuser:
+         username: stageconsultantplus@yopmail.com
+         password: P@ssw0rd0987
+         ReqsubStatusId: '29376_47728'
+      Subuser:
+         username: subuserconsultantplus1@yopmail.com
+         password: P@ssw0rd0987
+   ProConsultant2:
+      Superuser:
+         username: rmspro_consultant@naukri.com
+         password: P@ssw0rd0987
+         ReqsubStatusId: '3293_7513'
+      Subuser:
+         username: consultantSubuser@yopmail.com
+         password: P@ssw0rd0987
+   Company:
+      Superuser:
+         username: rmspro_company@naukri.com
+         password: P@ssw0rd0987
+         ReqsubStatusId: '2058'
+      Subuser:
+         username: pro_comp_sub1@naukri.com
+   JobPostingNonMigrated:
+      username: kandeel.chauhan@naukri.com
+      password: Tryt0c@tchm3n0w
+   RMS:
+      EnterpriseRMS: lokesh.agrawal@naukri.com
+      EnterprisePassRMS: P@ssw0rd0987
+      Username: singh.avinash@naukri.com
+      Password: P@ssw0rd0987
+      ReqsubStatusId: '3070_5416'
+      VendorName: avinash vendor
+   Vendor:
+      RMSUsername: singh.avinash@naukri.com
+      RMSPassword: P@ssw0rd0987
+      VendorUsername: prashant.emlh@yopmail.com
+      VendorPassword:  P@ssw0rd0987
+   EnterpriseSuperuser:
+       Username1: lokesh.agrawal@naukri.com
+       Password1: P@ssw0rd0987
+       Username2 : mayank.m@naukri.com
+       Password2 : P@ssw0rd0987
+   
+   Enterprise4:
+      Superuser:
+         username: vishwas.gupta@naukri.com
+         password: P@ssw0rd0987
+      HiringManager:
+         username: newHM_01@yopmail.com
+         password: P@ssw0rd0987 
+       
+   ConsultantSuperuser:
+       Username1: rmspro_consultant@naukri.com
+       Password1: P@ssw0rd0987
+   FirstEnterpriseSubuser:
+      Username: enterprise_subuser1@naukri.com
+      Password: P@ssw0rd0987
+   SecondEnterpriseSubuser:
+      Username: enterprise_subuser2@naukri.com
+      Password: P@ssw0rd0987
+   TLSubuser:
+      Username: mayanknewsubuser1@naukri.com
+      Password: P@ssw0rd0987
+   NonTLSubuser:
+       Username: nonTlUserForAutomation1@yopmail.com
+       Password: P@ssw0rd0987
+       
+   hmSpocUserName: mansitest101@gmail.com
+   hmSpocPassword: P@ssw0rd0987
+   
+   requisitionApproverUserName1: approverforhm1@yopmail.com
+   requisitionApproverPassword1: P@ssw0rd0987
+       
+   HrSpoc:
+      Username: hrSpocForAutomation1@yopmail.com
+      Password: P@ssw0rd0987
+   NonHrSpoc:
+       Username: nonHrSpocForAutomation1@yopmail.com
+       Password: P@ssw0rd0987
+   Password: P@ssw0rd0987
+
+   HiringManager:
+      Superuser:
+         username: varun@yopmail.com
+         Password: P@ssw0rd0987
+         
+   ConsultantPlus:
+      Superuser:
+         username: stageconsultantplus@yopmail.com
+         password: P@ssw0rd0987
+         
+
+Assessment:
+   Enterprise:
+      Superuser:
+         username: lokesh.agrawal@naukri.com
+         ReqsubStatusId: '1064_2609'
+      Subuser:
+         username: enterprise_subuser1@naukri.com
+         username_offer: testoffersetting_subuser@yopmail.com
+         password_offer: P@ssw0rd
+   ProConsultant:
+      Superuser:
+         username: rmspro_consultant@naukri.com
+         ReqsubStatusId: '3293_7513'
+      Subuser:
+         username: pro_cons_sub1@naukri.com
+   Company:
+      Superuser:
+         username: rmspro_company@naukri.com
+         ReqsubStatusId: '2058'
+      Subuser:
+         username: pro_comp_sub1@naukri.com
+Offer:
+    Enterprise:
+      Superuser:
+         username: lokesh.agrawal@naukri.com
+         password: P@ssw0rd0987
+      Subuser:
+         username: offer_subuser1@yopmail.com
+         password: P@ssw0rd0987
+      Super_user:
+         username: singh.avinash@naukri.com
+         password: P@ssw0rd0987
+      Sub_user:
+         username: jatinRec@yopmail.com
+         password: P@ssw0rd0987   
+    ProConsultant:
+      Superuser:
+         username: rmspro_consultant@naukri.com
+      Subuser:
+         username: pro_cons_sub1@naukri.com
+    Company:
+      Superuser:
+         username: rmspro_company@naukri.com
+      Subuser:
+         username: pro_comp_sub1@naukri.com
+    Eapps:
+       Superuser:
+         username: yashika.gupta
+         password: 0p3r@t!0N#123     
+
+Password: P@ssw0rd0987
+
+HM:
+   Enterprise:
+      superuser1: gupta.mansi@naukri.com
+      superuser1password: N0wy0us33m3#
+      hiringmanager1: test.mlh.cc@gmail.com
+      hiringmanager1password: P@ssw0rd0987
+      hiringmanager2: Test.bug@yopmail.com
+      hiringmanager2password: P@ssw0rd0987
+      approver1: mansihmmlh@yopmail.com
+      approver1password: P@ssw0rd123
+      approver2: aliasalias@yopmail.com
+      approver2password: P@ssw0rd123
+      subuser1: mansi.mlh@yopmail.com
+      subuser1password: P@ssw0rd
+      subuser2: shariq.mlh@yopmail.com
+      subuser2password: P@ssw0rd0987
+      kaustubh : kaustubh.mlh@yopmail.com
+      kaustubhpassword: P@ssw0rd0987
+      lokesh : lokesh.mlh@yopmail.com
+      lokeshpassword: P@ssw0rd0987
+      anmol : anmol.mlh@yopmail.com
+      anmolpassword: P@ssw0rd0987
+      abhishek: abhishek.mlh@yopmail.com
+      abhishekpassword: P@ssw0rd0987
+      subuser3: NotInHierarchy@yopmail.com
+      subuser3password: P@ssw0rd1
+
+Settings:
+     Enterprise:
+        Superuser: singh.avinash@naukri.com
+        Superuser1: anima.taraiya@naukri.com
+        Subuser1: jatinrec@yopmail.com
+        HiringManager1: avinashhm@yopmail.com
+        Superuser2: lokesh.agrawal@naukri.com 
+        Subuser2: lokeshRec@yopmail.com
+        HiringManager2: jatin_hm@yopmail.com
+     Consultant:
+        Superuser: stageconsultantplus@yopmail.com
+        Subuser: subuserconsultantplus1@yopmail.com
+     Company:
+        Superuser: rmspro_company@naukri.com
+        Subuser: newusercompany@yopmail.com
+ 
+     Password: P@ssw0rd0987           
+
+
+#Offer:
+TestData:
+   OfferLetterPathLessThan5MB: TestOfferLetterSample.docx
+   OfferLetterPathMoreThan5MB: SampleJPGImage5mb.jpg
+   VendorAttachment: attachemntVendor.docx
+   
+#TaxonomyUpload:
+SingleUpload:
+   PDF:
+      National: Delhi.pdf
+      
+ExcelUpload:
+   XLSX:
+      National: ExcelUpload.xlsx
+     
+MultiUpload:
+   DOCX:
+      National: National.docx
+   
+API:
+   authURL: https://login.recruit.naukri.com
+   baseURL: https://rms.naukri.com
+   
+
+

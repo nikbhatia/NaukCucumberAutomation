@@ -1,0 +1,193 @@
+URLs:
+    baseURL: https://csm.test2.naukri-test2.cluster.infoedge.com
+    recBaseURL: https://recruit.test2.abhishek-dwivedi-test2.cluster.infoedge.com
+    Posting: https://jobposting.test2.vikash-agrawal-test2.cluster.infoedge.com
+    Settings: https://referral.test2.vikash-agrawal-test2.cluster.infoedge.com/app/settings
+    RecLogin: https://login.recruit.test2.vikash-agrawal-test2.cluster.infoedge.com/Login/login
+    ReferralSite: https://testcompany.referralrecruit.com
+
+    forTesting : https://csm.test2.nikhil-bhatia-test2.cluster.infoedge.com/application/viewApplication/261154?_REF=I
+    cvDetailsPage: https://csm.test2.nikhil-bhatia-test2.cluster.infoedge.com/application/viewApplication
+    baseURL: https://csm.test2.naukri-test2.cluster.infoedge.com
+    adminDashboard: https://csm.test2.naukri-test2.cluster.infoedge.com/admin/dashboard
+    applicationInbox: https://csm.test2.naukri-test2.cluster.infoedge.com/profile/application/inbox
+    requirementInbox: https://csm.test2.naukri-test2.cluster.infoedge.com/project/list
+    templateListingPage: https://csm.test2.naukri-test2.cluster.infoedge.com/mailTemplate/list
+    advancedSearchURL: https://csm.test2.naukri-test2.cluster.infoedge.com/profile/search
+    backupInboxPage: https://csm.test2.naukri-test2.cluster.infoedge.com/profile/inbox/BackedUp
+    advancedSearchURL: https://csm.test2.naukri-test2.cluster.infoedge.com/profile/search
+    settingsPage: https://csm.test2.naukri-test2.cluster.infoedge.com/admin/settings
+    mailTemplateListingPage: https:/csm.test2.naukri-test2.cluster.infoedge.com/xmailTemplate/list
+    profileListingInbox: https://csm.test2.naukri-test2.cluster.infoedge.com/profile/inbox
+    logoutUrl : https://csm.test2.naukri-test2.cluster.infoedge.com/Login/smLogout
+    addSingleProfile: https://csm.test2.naukri-test2.cluster.infoedge.com/application/addCandidate
+    SelectionProcessSettings : https://csm.test2.naukri-test2.cluster.infoedge.com/status/manageApplicationStatus
+    RequirementListingPage : https://csm.test2.naukri-test2.cluster.infoedge.com/project/list
+    accountSettings : https://csm.test2.naukri-test2.cluster.infoedge.com/admin/settings
+    RMSSettings: https://csm.test2.naukri-test2.cluster.infoedge.com/admin/settings
+    appURL: https://csm.test2.naukri-test2.cluster.infoedge.com
+    authURL:  https://login.recruit.test2.naukri-test2.cluster.infoedge.com
+    customizeSelectionProcess: https://csm.test2.naukri-test2.cluster.infoedge.com/status/manageApplicationStatus
+    Posting: https://jobposting.test2.naukri-test2.cluster.infoedge.com
+    Settings: https://referral.test2.naukri-test2.cluster.infoedge.com/app/settings
+    RecLogin: https://login.recruit.test2.naukri-test2.cluster.infoedge.com/Login/login
+    ReferralSite: https://testcompany.referralrecruit.com
+    Dashboard: https://jobposting.test2.naukri-test2.cluster.infoedge.com/dashboard/home
+    EmployeeSite: https://test2.referralrecruit.test2.naukri-test2.cluster.infoedge.com/
+    SalaryBreakupListing: https://csm.test2.naukri-test2.cluster.infoedge.com/offerGeneration/salary-breakup/list
+    approvalTemplateListing: https://csm.test2.nikhil-bhatia-test2.cluster.infoedge.com/approvalTemplate/showList
+    requisitionListing: https://csm.test2.nikhil-bhatia-test2.cluster.infoedge.com/requisition/showList
+    ProfileProjectInbox: https://csm.test2.naukri-test2.cluster.infoedge.com/profile/project/inbox
+    SalaryBreakupListing: https://rms.naukri.com/offerGeneration/salary-breakup/list
+    offerLogs: https://rms.naukri.com/offers/logs
+    logoutUrl: https://csm.test2.naukri-test2.cluster.infoedge.com/logout
+    clientTracker: https://csm.test2.naukri-test2.cluster.infoedge.com/downloadTracker/list
+    RequisitionOverview: https://csm.test2.udit-khanna-test2.cluster.infoedge.com/project/dashboard
+   
+ReportURLs:
+   Dashboard : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/dashboard
+   SaveSchedule : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/list
+   RequirementTAT : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/tat
+   StageLevelTAT : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/custom-tat
+   RequisitionTAT : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/requisitionTat
+   RequisitionOverview : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/requisitionOverview
+   RequirementFunnel : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/conversion
+   StageLevelFunnel : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/custom-conversion
+   RequirementAging : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/requirementAging
+   RequirementCreation : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/requirementCreation
+   SourcePerformance : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/sourcePerformance
+   VendorPerformance : https://csm.test2.naukri-test2.cluster.infoedge.com/rms-reports/vendorPerformance
+
+Users:
+    Referral:
+            Username: sanity7
+            Password: naukri123
+    Employee:
+            Username: verma.nikhil@naukri.com
+            Password: lihkin123@A                
+    Enterprise:
+        Superuser:
+            username: sanity7 
+            ReqsubStatusId: '1949'
+            password: naukri123
+        Superuser2:
+           username: udit.khanna@naukri.com
+           password: P@ssw0rd0987
+        HiringManager1:
+           username: hiringmanager1234@yopmail.com
+           password: P@ssw0rd0987
+        HiringManager:
+           username: hiringmanager123@yopmail.com
+           password: P@ssw0rd0987
+        Subuser:
+            username: testinguser21@yopmail.com
+            password: P@ssw0rd0987
+        Subuser1:
+          username: Jatin2@yopmail.com
+          password: P@ssw0rd0987
+        Subuser2:
+          username: dockersubuser2@yopmail.com
+          password: P@ssw0rd0987
+        Subuser3:
+          username: testsubuserdocker@yopmail.com
+          password: P@ssw0rd0987
+        hiringmanager1:
+           username: amanhm@yopmail.com
+           password: P@ssw0rd0987
+        hiringmanager2:
+           username: hmtest2@yopmail.com
+           password: P@ssw0rd1
+        
+    EnterpriseSuperuser:
+       Username1: jatin.bisht@naukri.com
+       Password1: P@ssw0rd0987
+       Username2 : jatin.bisht@naukri.com
+       Password2 : P@ssw0rd0987
+
+    ConsultantSuperuser:
+       Username1: jatin.bisht@naukri.com
+       Password1: P@ssw0rd0987
+
+    FirstEnterpriseSubuser:
+       Username: jatin.bisht@naukri.com 
+       Password: P@ssw0rd0987
+    SecondEnterpriseSubuser:
+       Username: jatin.bisht@naukri.com
+       Password: P@ssw0rd0987       
+    TLSubuser:
+       Username: jatin.bisht@naukri.com
+       Password: P@ssw0rd0987      
+    NonTLSubuser:
+       Username: jatin.bisht@naukri.com
+       Password: P@ssw0rd0987      
+    HrSpoc:
+       Username: jatin.bisht@naukri.com
+       Password: P@ssw0rd0987      
+    NonHrSpoc:
+       Username: jatin.bisht@naukri.com
+       Password: P@ssw0rd0987
+    RMS:
+      EnterpriseRMS: sanity7
+      EnterprisePassRMS: naukri123
+      Username: sanity7
+      Password: naukri123
+      ReqsubStatusId: '1949'
+      VendorName: avinash vendor
+    Vendor:
+      Username: avinashvendor@yopmail.com
+      Password: P@ssw0rd0987     
+    Password: naukri123   
+Assessment:
+    Enterprise:
+      Superuser:
+         username: sanity7
+         ReqsubStatusId: '1949'
+      Subuser:
+         username: dockersubuser2@yopmail.com
+         password: Naukri@12345
+    ProConsultant:
+      Superuser:
+         username: rmspro_consultant@naukri.com
+    Company:
+      Superuser:
+         username: rmspro_company@naukri.com
+Offer:
+    Enterprise:
+      Superuser:
+         username: jatin.bisht@naukri.com
+         password: P@ssw0rd0987
+      Subuser:
+         username: subuser_offer@yopmail.com
+         password: P@ssw0rd0987
+    ProConsultant:
+      Superuser:
+         username: rmspro_consultant@naukri.com
+    Company:
+      Superuser:
+         username: rmspro_company@naukri.com
+        
+Password: naukri123
+
+
+Settings:
+     Enterprise:
+        Superuser1: jatin.bisht@naukri.com   
+        Subuser1: jatinrec@yopmail.com
+        HiringManager1: jatinhm@yopmail.com
+        Superuser2: cc@yopmail.com 
+        Subuser2: ccrec@yopmail.com
+        HiringManager2: cchm@yopmail.com
+     Consultant:
+        Superuser: vikashconsultant@yopmail.com
+        Subuser: sub1@yopmail.com
+     Company:
+        Superuser: rmspro_company@naukri.com
+        Subuser:
+ 
+     Password: P@ssw0rd0987           
+
+
+#Offer
+TestData:
+   OfferLetterPathLessThan5MB: TestOfferLetterSample.docx
+   OfferLetterPathMoreThan5MB: SampleJPGImage5mb.jpg

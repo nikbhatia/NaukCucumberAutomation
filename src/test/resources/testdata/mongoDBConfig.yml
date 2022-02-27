@@ -1,0 +1,12 @@
+IP:
+   test2ConnectionIp: 192.168.40.184
+   
+Port:
+    test2ConnectionPort: 27047
+
+DBName : 
+    npponboard: npponboard
+   
+Credentials:
+   username: npponboard
+   password: npponboard
